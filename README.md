@@ -1,4 +1,4 @@
-c_closure
+c_closure 0.1
 =========
 
 Simple experience where i try to implement closure in c
